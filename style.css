@@ -1,0 +1,13 @@
+body{
+    background:fixed;
+    background-image: url(/images/pic.jpg);
+}
+
+#name_reg{
+    font-style:italic;
+    width: 200px;
+    height: 200px;
+    text-align: center;
+    background-color: aqua;
+    margin-left: 100px;
+}
